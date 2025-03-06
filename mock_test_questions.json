@@ -1,0 +1,24 @@
+[
+    {
+        "type": "MCQ",
+        "question": "What is the time complexity of QuickSort in the average case?",
+        "options": ["O(n log n)", "O(n^2)", "O(log n)", "O(n)"],
+        "answer": "O(n log n)"
+    },
+    {
+        "type": "MCQ",
+        "question": "Which data structure is used for implementing recursion?",
+        "options": ["Queue", "Stack", "Heap", "Linked List"],
+        "answer": "Stack"
+    },
+    {
+        "type": "Short Answer",
+        "question": "Explain the concept of dynamic programming.",
+        "keywords": ["optimization", "overlapping subproblems", "memoization", "tabulation"]
+    },
+    {
+        "type": "Short Answer",
+        "question": "What are the primary components of a computer's CPU?",
+        "keywords": ["ALU", "control unit", "registers"]
+    }
+]
