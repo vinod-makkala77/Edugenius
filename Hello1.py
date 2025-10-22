@@ -7,7 +7,7 @@ from model import get_output
 # -----------------------------
 # Page Configuration
 # -----------------------------
-st.set_page_config(page_title="Synthify", layout="centered")
+st.set_page_config(page_title="Edugenius", layout="centered")
 
 # -----------------------------
 # Session State Initialization
