@@ -296,7 +296,7 @@ def process_task(task_name, prompt_template):
 # -----------------------------
 # Home Page
 if st.session_state.page == "upload":
-    st.title("📚 Synthify: AI Study Assistant")
+    st.title("📚 Edugenius: AI Study Companion")
     st.subheader("Upload your study material or enter a topic")
     uploaded_file = st.file_uploader("Choose a PDF or Text file", type=["pdf", "txt"])
     custom_topic = st.text_area("Or enter a study topic manually:")
